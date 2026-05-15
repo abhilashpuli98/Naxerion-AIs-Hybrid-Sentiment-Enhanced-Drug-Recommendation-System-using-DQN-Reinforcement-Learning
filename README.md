@@ -1,6 +1,6 @@
-# Naxerion-AI: Hybrid Sentiment-Enhanced Drug Recommendation System using DQN (Reinforcement-Learning)
-
-**Status: Work in Progress – Research Under Publication**
+#**Status: Work in Progress – Research Under Publication**
+Expected Push : 29th-MAY
+## Naxerion-AI: Hybrid Sentiment-Enhanced Drug Recommendation System using DQN (Reinforcement-Learning) and 
 
 This project is currently under active research and is being prepared for academic publication.
 Due to ongoing experimentation, validation, and submission requirements, the complete implementation is not fully open-sourced at this stage.
